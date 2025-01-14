@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## 겸손하고 성실한 개발자 최종헌입니다.
+# 겸손하고 성실한 개발자 최종헌입니다.
 
 <!--
 **ChoiJongman22/ChoiJongman22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
